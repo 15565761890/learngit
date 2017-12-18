@@ -1,0 +1,16 @@
+一：安装git
+1，在开始菜单中找到git -> Git Bash
+2，初始化git：
+git config -- global user.name "Your Name"
+git config --global user.email "email@example"
+二：创建版本库
+1，mkdir nodejsGit
+2，cd nodejsGit
+3, pwd
+4,git init:把这个目录变成git可以管理的仓库
+5，ls -ah 可以看到文件夹下会有.gat目录。
+三:时光机穿梭
+1，git status:查看文件是否有改动
+2，git diff 文件名：查看文件具体修改内容。
+
+
